@@ -1,0 +1,9 @@
+{
+  "updated": "2026-11-09",
+  "note": "Backup list the Bryant Builds Optimizer uses when Intel's website doesn't answer. Newest packages from intel.com.",
+  "intel": {
+    "legacy": { "version": "101.2145", "url": "https://downloadmirror.intel.com/929187/gfx_win_101.2145.exe", "page": "776137" },
+    "xe":     { "version": "101.7092", "url": "https://downloadmirror.intel.com/929468/gfx_win_101.7092.exe", "page": "864990" },
+    "arc":    { "version": "101.9175", "url": "https://downloadmirror.intel.com/932449/gfx_win_101.9175.exe", "page": "785597" }
+  }
+}
